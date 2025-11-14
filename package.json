@@ -1,0 +1,23 @@
+{
+  "name": "journey-through-cinema",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/mdx": "^4.3.10",
+    "@astrojs/react": "^4.4.2",
+    "@astrojs/rss": "^4.0.13",
+    "@astrojs/sitemap": "^3.6.0",
+    "@types/react": "^19.2.4",
+    "@types/react-dom": "^19.2.3",
+    "astro": "^5.15.7",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "sharp": "^0.34.3"
+  }
+}
